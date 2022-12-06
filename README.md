@@ -4,7 +4,7 @@
 1. https://github.com/acehko/kubernetes-examples/tree/main/kafka 
 2. https://jinnabalu.medium.com/kafka-cluster-on-amezon-eks-cluster-5850d67ae723
 3. https://platform9.com/blog/how-to-set-up-and-run-kafka-on-kubernetes/
-
+4. https://medium.com/@knoldus/set-up-kafka-cluster-using-kubernetes-statefulset-30d73d25864b
 
 Commands:
 kubectl apply -f kafka/ns.yaml
