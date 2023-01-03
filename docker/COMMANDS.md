@@ -4,7 +4,6 @@ https://hub.docker.com/r/bitnami/kafka
 https://hub.docker.com/r/bitnami/zookeeper
 
 
-
 docker-compose up -d
 
 
