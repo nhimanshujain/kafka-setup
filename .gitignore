@@ -1,1 +1,3 @@
 .DS_Store
+local/kafka_*
+docker/logs

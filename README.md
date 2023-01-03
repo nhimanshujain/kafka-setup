@@ -1,5 +1,10 @@
 # kubernetes-kafka
 
+```
+cd local  ->  To try kafka local
+cd docker  ->  To try kafka using docker containers
+```
+
 
 1. https://github.com/acehko/kubernetes-examples/tree/main/kafka 
 2. https://jinnabalu.medium.com/kafka-cluster-on-amezon-eks-cluster-5850d67ae723

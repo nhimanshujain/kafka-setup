@@ -1,3 +1,4 @@
+```
 Reference: https://kafka.apache.org/quickstart
 
 curl https://dlcdn.apache.org/kafka/3.3.1/kafka_2.13-3.3.1.tgz | tar -xz
@@ -15,3 +16,4 @@ bin/kafka-console-producer.sh --topic test-topic --bootstrap-server localhost:90
 bin/kafka-console-consumer.sh --topic test-topic --from-beginning --bootstrap-server localhost:9092
 
 rm -rf /tmp/kafka-logs /tmp/zookeeper /tmp/kraft-combined-logs
+```
