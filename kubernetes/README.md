@@ -1,1 +1,3 @@
-kafka on k8 
+```
+https://github.com/bitnami/charts/tree/main/bitnami/kafka
+```
